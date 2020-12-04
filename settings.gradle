@@ -1,0 +1,8 @@
+rootProject.name = 'java-microservice-template'
+include 'api'
+include 'config'
+include 'core'
+include 'api-impl'
+include 'deployable'
+include 'db-migration'
+
