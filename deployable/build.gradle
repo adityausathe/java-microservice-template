@@ -25,7 +25,6 @@ project(":deployable") {
         compile project(':core')
         compile project(':api-impl')
         implementation 'org.springframework.boot:spring-boot-starter-actuator'
-        implementation 'org.springframework.boot:spring-boot-starter-security'
         implementation 'org.springframework.boot:spring-boot-starter-web'
         compile group: 'joda-time', name: 'joda-time', version: '2.10.6'
         compile group: 'org.springframework.hateoas', name: 'spring-hateoas', version: '1.1.2.RELEASE'
