@@ -1,0 +1,3 @@
+# java-microservice-template
+
+*pending*
