@@ -2,7 +2,7 @@
 ### :heavy_check_mark: Working
 
 ## Information
-A prototypical java-based microservice demostrating API-first development approach, and a possible code-organization strategy. This app can serve as a base template and can be extended into a fully-functional microservice.
+A prototypical Java-based microservice demonstrating API-first development approach, and a possible code-organization strategy. This app can serve as a base template and can be extended into a fully-functional microservice.
 
 ## Functionality
 - The web-application is broken into six modules:
