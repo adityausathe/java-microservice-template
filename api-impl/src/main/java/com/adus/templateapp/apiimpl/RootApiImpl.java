@@ -1,8 +1,8 @@
-package com.adus.apiimpl;
+package com.adus.templateapp.apiimpl;
 
-import com.adus.api.RootApi;
-import com.adus.api.UserApi;
-import com.adus.api.model.ApiModule;
+import com.adus.templateapp.api.RootApi;
+import com.adus.templateapp.api.UserApi;
+import com.adus.templateapp.api.model.ApiModule;
 import org.springframework.hateoas.EntityModel;
 import org.springframework.stereotype.Component;
 

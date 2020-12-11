@@ -1,9 +1,9 @@
-package com.adus;
+package com.adus.templateapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication(scanBasePackages = {"com.adus"})
+@SpringBootApplication(scanBasePackages = {"com.adus.templateapp"})
 public class ApplicationConfig {
 
     public static void main(String[] args) {

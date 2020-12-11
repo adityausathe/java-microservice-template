@@ -1,6 +1,6 @@
-package com.adus.users;
+package com.adus.templateapp.users;
 
-import com.adus.api.model.User;
+import com.adus.templateapp.api.model.User;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

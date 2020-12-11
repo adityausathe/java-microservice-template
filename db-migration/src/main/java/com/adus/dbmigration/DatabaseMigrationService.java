@@ -1,4 +1,4 @@
-package com.adus.dbmigration;
+package com.adus.templateapp.dbmigration;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.CommandLineRunner;

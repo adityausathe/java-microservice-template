@@ -1,6 +1,6 @@
-package com.adus.api;
+package com.adus.templateapp.api;
 
-import com.adus.api.model.ApiModule;
+import com.adus.templateapp.api.model.ApiModule;
 import org.springframework.hateoas.EntityModel;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.CrossOrigin;

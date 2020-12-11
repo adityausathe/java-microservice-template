@@ -1,7 +1,7 @@
-package com.adus.api;
+package com.adus.templateapp.api;
 
 
-import com.adus.api.model.User;
+import com.adus.templateapp.api.model.User;
 import org.springframework.hateoas.CollectionModel;
 import org.springframework.hateoas.EntityModel;
 import org.springframework.http.MediaType;

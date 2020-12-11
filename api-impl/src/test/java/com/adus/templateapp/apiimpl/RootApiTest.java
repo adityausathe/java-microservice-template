@@ -1,6 +1,6 @@
-package com.adus.apiimpl;
+package com.adus.templateapp.apiimpl;
 
-import com.adus.api.RootApi;
+import com.adus.templateapp.api.RootApi;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

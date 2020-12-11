@@ -1,4 +1,4 @@
-package com.adus.api.model;
+package com.adus.templateapp.api.model;
 
 import lombok.Getter;
 import lombok.Setter;
